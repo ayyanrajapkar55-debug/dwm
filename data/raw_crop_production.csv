@@ -1,0 +1,658 @@
+year,season,state,district,crop,category,soil_id,area_hectares,production_tonnes,yield_t_ha
+2020,Kharif,Punjab,Ludhiana,Rice,Cereal,1,1168.0,4531.8,3.88
+2020,Rabi,Punjab,Ludhiana,Wheat,Cereal,2,3849.1,15242.4,3.96
+2020,Annual,Punjab,Ludhiana,Sugarcane,Commercial,3,7486.8,492856.0,65.83
+2020,Kharif,Punjab,Ludhiana,Soybean,Oilseed,4,895.5,2041.7,2.28
+2020,Rabi,Punjab,Ludhiana,Mustard,Oilseed,5,11101.6,16319.4,1.47
+2020,Kharif,Punjab,Amritsar,Rice,Cereal,6,6741.0,22582.4,3.35
+2020,Rabi,Punjab,Amritsar,Wheat,Cereal,7,10425.7,41702.8,4.0
+2020,Annual,Punjab,Amritsar,Sugarcane,Commercial,8,8702.3,588014.4,67.57
+2020,Kharif,Punjab,Amritsar,Soybean,Oilseed,9,6348.6,13078.1,2.06
+2020,Rabi,Punjab,Amritsar,Mustard,Oilseed,10,9742.2,14028.8,1.44
+2020,Rabi,Punjab,Amritsar,Chickpea,Pulses,11,579.9,806.1,1.39
+2020,Kharif,Punjab,Patiala,Rice,Cereal,12,8584.7,31677.5,3.69
+2020,Rabi,Punjab,Patiala,Wheat,Cereal,13,2166.3,8080.3,3.73
+2020,Kharif,Punjab,Patiala,Cotton,Commercial,14,6661.4,12523.4,1.88
+2020,Annual,Punjab,Patiala,Sugarcane,Commercial,15,7919.5,515084.3,65.04
+2020,Rabi,Punjab,Patiala,Mustard,Oilseed,16,6591.0,10347.9,1.57
+2020,Rabi,Punjab,Patiala,Chickpea,Pulses,17,10701.5,15196.1,1.42
+2020,Kharif,Haryana,Karnal,Rice,Cereal,18,3079.1,11361.9,3.69
+2020,Rabi,Haryana,Karnal,Wheat,Cereal,19,1577.3,5930.6,3.76
+2020,Kharif,Haryana,Karnal,Cotton,Commercial,20,6164.0,12389.6,2.01
+2020,Annual,Haryana,Karnal,Sugarcane,Commercial,21,11581.6,794266.1,68.58
+2020,Rabi,Haryana,Karnal,Mustard,Oilseed,22,7055.7,10795.2,1.53
+2020,Rabi,Haryana,Karnal,Chickpea,Pulses,23,4634.1,6441.4,1.39
+2020,Kharif,Haryana,Hisar,Rice,Cereal,24,7974.6,30144.0,3.78
+2020,Rabi,Haryana,Hisar,Wheat,Cereal,25,5854.4,23007.8,3.93
+2020,Kharif,Haryana,Hisar,Maize,Cereal,26,7663.2,22070.0,2.88
+2020,Kharif,Haryana,Hisar,Cotton,Commercial,27,5548.2,9986.8,1.8
+2020,Annual,Haryana,Hisar,Sugarcane,Commercial,28,8717.9,555504.6,63.72
+2020,Kharif,Haryana,Hisar,Soybean,Oilseed,29,9215.2,18153.9,1.97
+2020,Rabi,Haryana,Hisar,Mustard,Oilseed,30,2491.8,3887.2,1.56
+2020,Rabi,Haryana,Hisar,Chickpea,Pulses,31,8075.0,11547.2,1.43
+2020,Kharif,Uttar Pradesh,Varanasi,Rice,Cereal,32,7897.8,29853.7,3.78
+2020,Rabi,Uttar Pradesh,Varanasi,Wheat,Cereal,33,10216.1,39740.6,3.89
+2020,Kharif,Uttar Pradesh,Varanasi,Cotton,Commercial,34,3743.4,7374.5,1.97
+2020,Annual,Uttar Pradesh,Varanasi,Sugarcane,Commercial,35,9177.2,561552.9,61.19
+2020,Kharif,Uttar Pradesh,Varanasi,Soybean,Oilseed,36,11432.0,25722.0,2.25
+2020,Rabi,Uttar Pradesh,Varanasi,Mustard,Oilseed,37,9580.6,13796.1,1.44
+2020,Rabi,Uttar Pradesh,Varanasi,Chickpea,Pulses,38,2144.4,3173.7,1.48
+2020,Kharif,Uttar Pradesh,Meerut,Rice,Cereal,39,11393.4,44320.3,3.89
+2020,Rabi,Uttar Pradesh,Meerut,Wheat,Cereal,40,1778.8,7097.4,3.99
+2020,Kharif,Uttar Pradesh,Meerut,Maize,Cereal,41,3785.7,11887.1,3.14
+2020,Kharif,Uttar Pradesh,Meerut,Cotton,Commercial,42,8501.1,16917.2,1.99
+2020,Annual,Uttar Pradesh,Meerut,Sugarcane,Commercial,43,5832.5,403492.4,69.18
+2020,Kharif,Uttar Pradesh,Meerut,Soybean,Oilseed,44,5309.8,11840.9,2.23
+2020,Rabi,Uttar Pradesh,Meerut,Mustard,Oilseed,45,5270.4,7747.5,1.47
+2020,Rabi,Uttar Pradesh,Meerut,Chickpea,Pulses,46,1985.3,3037.5,1.53
+2020,Kharif,Uttar Pradesh,Agra,Rice,Cereal,47,6483.5,22951.6,3.54
+2020,Rabi,Uttar Pradesh,Agra,Wheat,Cereal,48,831.0,3357.2,4.04
+2020,Kharif,Uttar Pradesh,Agra,Maize,Cereal,49,4504.9,13694.9,3.04
+2020,Kharif,Uttar Pradesh,Agra,Cotton,Commercial,50,6165.1,11097.2,1.8
+2020,Annual,Uttar Pradesh,Agra,Sugarcane,Commercial,51,5950.6,412852.6,69.38
+2020,Kharif,Uttar Pradesh,Agra,Soybean,Oilseed,52,6289.3,13899.4,2.21
+2020,Rabi,Uttar Pradesh,Agra,Mustard,Oilseed,53,2907.5,4477.6,1.54
+2020,Rabi,Uttar Pradesh,Agra,Chickpea,Pulses,54,6384.3,8044.2,1.26
+2020,Rabi,Maharashtra,Pune,Wheat,Cereal,55,4266.2,15784.9,3.7
+2020,Kharif,Maharashtra,Pune,Maize,Cereal,56,9072.6,26582.7,2.93
+2020,Kharif,Maharashtra,Pune,Cotton,Commercial,57,1670.5,3123.8,1.87
+2020,Kharif,Maharashtra,Pune,Soybean,Oilseed,58,1788.4,3845.1,2.15
+2020,Rabi,Maharashtra,Pune,Mustard,Oilseed,59,7073.5,10963.9,1.55
+2020,Rabi,Maharashtra,Pune,Chickpea,Pulses,60,7522.1,10079.6,1.34
+2020,Rabi,Maharashtra,Nagpur,Wheat,Cereal,61,3428.4,13885.0,4.05
+2020,Kharif,Maharashtra,Nagpur,Maize,Cereal,62,11290.9,31162.9,2.76
+2020,Kharif,Maharashtra,Nagpur,Cotton,Commercial,63,2382.0,4406.7,1.85
+2020,Annual,Maharashtra,Nagpur,Sugarcane,Commercial,64,4834.9,316927.7,65.55
+2020,Kharif,Maharashtra,Nagpur,Soybean,Oilseed,65,10924.4,23269.0,2.13
+2020,Rabi,Maharashtra,Nagpur,Mustard,Oilseed,66,10779.8,16061.9,1.49
+2020,Rabi,Maharashtra,Nagpur,Chickpea,Pulses,67,9944.5,12927.9,1.3
+2020,Kharif,Maharashtra,Nashik,Maize,Cereal,68,6741.3,20426.1,3.03
+2020,Kharif,Maharashtra,Nashik,Cotton,Commercial,69,6317.7,11877.3,1.88
+2020,Annual,Maharashtra,Nashik,Sugarcane,Commercial,70,7127.3,487079.7,68.34
+2020,Kharif,Maharashtra,Nashik,Soybean,Oilseed,71,5088.5,11143.8,2.19
+2020,Rabi,Maharashtra,Nashik,Mustard,Oilseed,72,5700.5,7866.7,1.38
+2020,Rabi,Maharashtra,Nashik,Chickpea,Pulses,73,7176.8,10262.8,1.43
+2020,Kharif,Karnataka,Dharwad,Rice,Cereal,74,7346.9,25493.7,3.47
+2020,Kharif,Karnataka,Dharwad,Maize,Cereal,75,5568.8,17931.5,3.22
+2020,Annual,Karnataka,Dharwad,Sugarcane,Commercial,76,5200.4,342446.3,65.85
+2020,Kharif,Karnataka,Dharwad,Soybean,Oilseed,77,2553.3,5872.6,2.3
+2020,Kharif,Karnataka,Bellary,Rice,Cereal,78,3871.2,14594.4,3.77
+2020,Kharif,Karnataka,Bellary,Maize,Cereal,79,3483.4,10310.9,2.96
+2020,Annual,Karnataka,Bellary,Sugarcane,Commercial,80,9281.5,546494.7,58.88
+2020,Kharif,Karnataka,Bellary,Soybean,Oilseed,81,7785.0,17282.7,2.22
+2020,Rabi,Karnataka,Bellary,Mustard,Oilseed,82,3651.6,6098.2,1.67
+2020,Rabi,Karnataka,Bellary,Chickpea,Pulses,83,6467.6,8860.6,1.37
+2020,Kharif,Andhra Pradesh,Guntur,Rice,Cereal,84,4590.2,17075.5,3.72
+2020,Rabi,Andhra Pradesh,Guntur,Wheat,Cereal,85,1091.4,3961.8,3.63
+2020,Kharif,Andhra Pradesh,Guntur,Maize,Cereal,86,3333.6,10134.1,3.04
+2020,Kharif,Andhra Pradesh,Guntur,Cotton,Commercial,87,2629.0,4968.8,1.89
+2020,Annual,Andhra Pradesh,Guntur,Sugarcane,Commercial,88,6128.4,407293.5,66.46
+2020,Kharif,Andhra Pradesh,Guntur,Soybean,Oilseed,89,10212.3,22671.3,2.22
+2020,Rabi,Andhra Pradesh,Guntur,Chickpea,Pulses,90,1251.6,1764.8,1.41
+2020,Kharif,Andhra Pradesh,Krishna,Rice,Cereal,91,780.6,2888.2,3.7
+2020,Rabi,Andhra Pradesh,Krishna,Wheat,Cereal,92,7716.3,32485.6,4.21
+2020,Kharif,Andhra Pradesh,Krishna,Maize,Cereal,93,4578.2,13368.3,2.92
+2020,Annual,Andhra Pradesh,Krishna,Sugarcane,Commercial,94,11364.4,798803.7,70.29
+2020,Rabi,Andhra Pradesh,Krishna,Mustard,Oilseed,95,2644.0,3833.8,1.45
+2020,Kharif,Madhya Pradesh,Indore,Rice,Cereal,96,3081.1,10753.0,3.49
+2020,Rabi,Madhya Pradesh,Indore,Wheat,Cereal,97,8035.3,27802.1,3.46
+2020,Kharif,Madhya Pradesh,Indore,Cotton,Commercial,98,10288.9,19960.5,1.94
+2020,Annual,Madhya Pradesh,Indore,Sugarcane,Commercial,99,10604.2,744520.9,70.21
+2020,Kharif,Madhya Pradesh,Indore,Soybean,Oilseed,100,2324.0,5322.0,2.29
+2020,Rabi,Madhya Pradesh,Indore,Mustard,Oilseed,101,6335.9,9567.2,1.51
+2020,Rabi,Madhya Pradesh,Indore,Chickpea,Pulses,102,9468.2,13350.2,1.41
+2020,Kharif,Madhya Pradesh,Bhopal,Rice,Cereal,103,1280.1,4800.4,3.75
+2020,Rabi,Madhya Pradesh,Bhopal,Wheat,Cereal,104,9220.0,36142.4,3.92
+2020,Kharif,Madhya Pradesh,Bhopal,Cotton,Commercial,105,2381.7,4834.9,2.03
+2020,Annual,Madhya Pradesh,Bhopal,Sugarcane,Commercial,106,7843.0,497089.3,63.38
+2020,Kharif,Madhya Pradesh,Bhopal,Soybean,Oilseed,107,10440.1,23594.6,2.26
+2020,Rabi,Madhya Pradesh,Bhopal,Mustard,Oilseed,108,7701.5,12476.4,1.62
+2020,Rabi,Madhya Pradesh,Bhopal,Chickpea,Pulses,109,2806.0,3984.5,1.42
+2020,Kharif,West Bengal,Burdwan,Rice,Cereal,110,1333.1,4665.8,3.5
+2020,Rabi,West Bengal,Burdwan,Wheat,Cereal,111,1706.7,6246.5,3.66
+2020,Kharif,West Bengal,Burdwan,Maize,Cereal,112,4254.3,13018.2,3.06
+2020,Annual,West Bengal,Burdwan,Sugarcane,Commercial,113,2426.0,162469.2,66.97
+2020,Kharif,West Bengal,Burdwan,Soybean,Oilseed,114,4403.7,10128.5,2.3
+2020,Rabi,West Bengal,Burdwan,Mustard,Oilseed,115,1438.7,2186.8,1.52
+2020,Kharif,West Bengal,Murshidabad,Rice,Cereal,116,6886.7,26031.7,3.78
+2020,Rabi,West Bengal,Murshidabad,Wheat,Cereal,117,10485.1,44876.2,4.28
+2020,Kharif,West Bengal,Murshidabad,Maize,Cereal,118,10544.4,30578.8,2.9
+2020,Annual,West Bengal,Murshidabad,Sugarcane,Commercial,119,2013.0,140708.7,69.9
+2020,Rabi,West Bengal,Murshidabad,Chickpea,Pulses,120,6420.4,8924.4,1.39
+2020,Kharif,Gujarat,Rajkot,Maize,Cereal,121,1345.2,3887.6,2.89
+2020,Kharif,Gujarat,Rajkot,Cotton,Commercial,122,2421.0,4599.9,1.9
+2020,Annual,Gujarat,Rajkot,Sugarcane,Commercial,123,2867.2,173551.6,60.53
+2020,Kharif,Gujarat,Rajkot,Soybean,Oilseed,124,6333.2,13489.7,2.13
+2020,Rabi,Gujarat,Rajkot,Mustard,Oilseed,125,8168.9,12988.6,1.59
+2020,Rabi,Gujarat,Rajkot,Chickpea,Pulses,126,10483.6,13419.0,1.28
+2021,Kharif,Punjab,Ludhiana,Rice,Cereal,127,11205.9,39220.7,3.5
+2021,Rabi,Punjab,Ludhiana,Wheat,Cereal,128,11993.3,45094.8,3.76
+2021,Kharif,Punjab,Ludhiana,Cotton,Commercial,129,8177.3,16272.8,1.99
+2021,Annual,Punjab,Ludhiana,Sugarcane,Commercial,130,4232.7,270596.5,63.93
+2021,Kharif,Punjab,Ludhiana,Soybean,Oilseed,131,7624.1,15019.5,1.97
+2021,Rabi,Punjab,Ludhiana,Mustard,Oilseed,132,5086.5,8138.4,1.6
+2021,Rabi,Punjab,Ludhiana,Chickpea,Pulses,133,1666.3,2282.8,1.37
+2021,Kharif,Punjab,Amritsar,Rice,Cereal,134,8735.7,30138.2,3.45
+2021,Rabi,Punjab,Amritsar,Wheat,Cereal,135,1729.1,7089.3,4.1
+2021,Kharif,Punjab,Amritsar,Maize,Cereal,136,7418.5,22923.2,3.09
+2021,Annual,Punjab,Amritsar,Sugarcane,Commercial,137,3224.0,216620.6,67.19
+2021,Kharif,Punjab,Amritsar,Soybean,Oilseed,138,2432.2,5229.2,2.15
+2021,Rabi,Punjab,Amritsar,Mustard,Oilseed,139,3167.4,5257.9,1.66
+2021,Rabi,Punjab,Amritsar,Chickpea,Pulses,140,3652.8,4675.6,1.28
+2021,Kharif,Punjab,Patiala,Rice,Cereal,141,9704.1,33770.3,3.48
+2021,Rabi,Punjab,Patiala,Wheat,Cereal,142,11932.6,46656.5,3.91
+2021,Kharif,Punjab,Patiala,Maize,Cereal,143,2810.7,8797.5,3.13
+2021,Kharif,Punjab,Patiala,Cotton,Commercial,144,11913.6,24184.6,2.03
+2021,Annual,Punjab,Patiala,Sugarcane,Commercial,145,9999.8,665286.7,66.53
+2021,Rabi,Punjab,Patiala,Mustard,Oilseed,146,4013.5,5940.0,1.48
+2021,Rabi,Punjab,Patiala,Chickpea,Pulses,147,11201.8,15234.4,1.36
+2021,Kharif,Haryana,Karnal,Rice,Cereal,148,1430.6,5221.7,3.65
+2021,Rabi,Haryana,Karnal,Wheat,Cereal,149,10413.2,39674.3,3.81
+2021,Kharif,Haryana,Karnal,Maize,Cereal,150,1284.0,3646.6,2.84
+2021,Kharif,Haryana,Karnal,Cotton,Commercial,151,1715.1,3481.7,2.03
+2021,Annual,Haryana,Karnal,Sugarcane,Commercial,152,11812.3,737914.4,62.47
+2021,Rabi,Haryana,Karnal,Mustard,Oilseed,153,9860.7,15875.7,1.61
+2021,Rabi,Haryana,Karnal,Chickpea,Pulses,154,10016.7,11519.2,1.15
+2021,Kharif,Haryana,Hisar,Rice,Cereal,155,2076.8,7788.0,3.75
+2021,Rabi,Haryana,Hisar,Wheat,Cereal,156,1627.9,6625.6,4.07
+2021,Kharif,Haryana,Hisar,Cotton,Commercial,157,11486.3,22398.3,1.95
+2021,Annual,Haryana,Hisar,Sugarcane,Commercial,158,8082.6,529733.6,65.54
+2021,Kharif,Haryana,Hisar,Soybean,Oilseed,159,979.2,2095.5,2.14
+2021,Rabi,Haryana,Hisar,Mustard,Oilseed,160,2629.7,3813.1,1.45
+2021,Rabi,Haryana,Hisar,Chickpea,Pulses,161,1895.9,2597.4,1.37
+2021,Kharif,Uttar Pradesh,Varanasi,Rice,Cereal,162,7197.9,24328.9,3.38
+2021,Rabi,Uttar Pradesh,Varanasi,Wheat,Cereal,163,5468.9,21383.4,3.91
+2021,Kharif,Uttar Pradesh,Varanasi,Maize,Cereal,164,9883.4,31626.9,3.2
+2021,Kharif,Uttar Pradesh,Varanasi,Cotton,Commercial,165,9429.1,19518.2,2.07
+2021,Annual,Uttar Pradesh,Varanasi,Sugarcane,Commercial,166,2955.4,205341.2,69.48
+2021,Kharif,Uttar Pradesh,Varanasi,Soybean,Oilseed,167,8422.2,18192.0,2.16
+2021,Rabi,Uttar Pradesh,Varanasi,Mustard,Oilseed,168,11905.8,18215.9,1.53
+2021,Rabi,Uttar Pradesh,Varanasi,Chickpea,Pulses,169,4586.9,6651.0,1.45
+2021,Kharif,Uttar Pradesh,Meerut,Rice,Cereal,170,8803.8,31429.6,3.57
+2021,Rabi,Uttar Pradesh,Meerut,Wheat,Cereal,171,7886.7,26183.8,3.32
+2021,Kharif,Uttar Pradesh,Meerut,Maize,Cereal,172,6229.9,17069.9,2.74
+2021,Kharif,Uttar Pradesh,Meerut,Cotton,Commercial,173,2195.7,4325.5,1.97
+2021,Annual,Uttar Pradesh,Meerut,Sugarcane,Commercial,174,7816.0,565800.2,72.39
+2021,Kharif,Uttar Pradesh,Meerut,Soybean,Oilseed,175,4665.7,10264.5,2.2
+2021,Rabi,Uttar Pradesh,Meerut,Mustard,Oilseed,176,10536.4,16647.5,1.58
+2021,Rabi,Uttar Pradesh,Meerut,Chickpea,Pulses,177,6209.3,8382.6,1.35
+2021,Kharif,Uttar Pradesh,Agra,Rice,Cereal,178,11501.1,40138.8,3.49
+2021,Rabi,Uttar Pradesh,Agra,Wheat,Cereal,179,9233.1,34901.1,3.78
+2021,Kharif,Uttar Pradesh,Agra,Cotton,Commercial,180,10848.1,21587.7,1.99
+2021,Annual,Uttar Pradesh,Agra,Sugarcane,Commercial,181,2778.1,186577.2,67.16
+2021,Kharif,Uttar Pradesh,Agra,Soybean,Oilseed,182,3386.1,7788.0,2.3
+2021,Rabi,Uttar Pradesh,Agra,Mustard,Oilseed,183,6750.7,10328.6,1.53
+2021,Rabi,Uttar Pradesh,Agra,Chickpea,Pulses,184,6772.5,8736.5,1.29
+2021,Kharif,Maharashtra,Pune,Rice,Cereal,185,4297.5,16201.6,3.77
+2021,Kharif,Maharashtra,Pune,Maize,Cereal,186,1712.9,5104.4,2.98
+2021,Kharif,Maharashtra,Pune,Cotton,Commercial,187,7797.7,15283.5,1.96
+2021,Annual,Maharashtra,Pune,Sugarcane,Commercial,188,10920.6,739215.4,67.69
+2021,Kharif,Maharashtra,Pune,Soybean,Oilseed,189,1459.8,3313.7,2.27
+2021,Rabi,Maharashtra,Pune,Mustard,Oilseed,190,2365.7,3690.5,1.56
+2021,Rabi,Maharashtra,Pune,Chickpea,Pulses,191,6719.1,8600.4,1.28
+2021,Kharif,Maharashtra,Nagpur,Rice,Cereal,192,2498.3,8968.9,3.59
+2021,Kharif,Maharashtra,Nagpur,Cotton,Commercial,193,4552.3,9468.8,2.08
+2021,Annual,Maharashtra,Nagpur,Sugarcane,Commercial,194,2511.1,172763.7,68.8
+2021,Kharif,Maharashtra,Nagpur,Soybean,Oilseed,195,2945.4,6273.7,2.13
+2021,Rabi,Maharashtra,Nagpur,Mustard,Oilseed,196,6945.1,10348.2,1.49
+2021,Rabi,Maharashtra,Nagpur,Chickpea,Pulses,197,9008.9,12342.2,1.37
+2021,Kharif,Maharashtra,Nashik,Rice,Cereal,198,10038.0,36839.5,3.67
+2021,Kharif,Maharashtra,Nashik,Maize,Cereal,199,3949.1,12123.7,3.07
+2021,Kharif,Maharashtra,Nashik,Cotton,Commercial,200,1231.9,2365.2,1.92
+2021,Kharif,Maharashtra,Nashik,Soybean,Oilseed,201,4144.9,8994.4,2.17
+2021,Rabi,Maharashtra,Nashik,Mustard,Oilseed,202,3230.5,5265.7,1.63
+2021,Rabi,Maharashtra,Nashik,Chickpea,Pulses,203,6322.1,8282.0,1.31
+2021,Kharif,Karnataka,Dharwad,Rice,Cereal,204,11672.6,39920.3,3.42
+2021,Kharif,Karnataka,Dharwad,Maize,Cereal,205,9729.7,28508.0,2.93
+2021,Annual,Karnataka,Dharwad,Sugarcane,Commercial,206,6335.2,440676.5,69.56
+2021,Kharif,Karnataka,Dharwad,Soybean,Oilseed,207,7490.9,15056.7,2.01
+2021,Rabi,Karnataka,Dharwad,Mustard,Oilseed,208,5746.7,9482.1,1.65
+2021,Kharif,Karnataka,Bellary,Rice,Cereal,209,8304.7,30810.4,3.71
+2021,Kharif,Karnataka,Bellary,Maize,Cereal,210,10878.2,32852.2,3.02
+2021,Annual,Karnataka,Bellary,Sugarcane,Commercial,211,1914.5,132885.4,69.41
+2021,Kharif,Karnataka,Bellary,Soybean,Oilseed,212,4022.6,8970.4,2.23
+2021,Rabi,Karnataka,Bellary,Mustard,Oilseed,213,4768.5,7868.0,1.65
+2021,Rabi,Karnataka,Bellary,Chickpea,Pulses,214,2276.3,2890.9,1.27
+2021,Kharif,Andhra Pradesh,Guntur,Rice,Cereal,215,7466.5,25535.4,3.42
+2021,Rabi,Andhra Pradesh,Guntur,Wheat,Cereal,216,11586.2,41710.3,3.6
+2021,Kharif,Andhra Pradesh,Guntur,Maize,Cereal,217,1835.6,5910.6,3.22
+2021,Kharif,Andhra Pradesh,Guntur,Cotton,Commercial,218,6726.2,12981.6,1.93
+2021,Annual,Andhra Pradesh,Guntur,Sugarcane,Commercial,219,2738.2,176449.6,64.44
+2021,Rabi,Andhra Pradesh,Guntur,Mustard,Oilseed,220,6122.3,8510.0,1.39
+2021,Rabi,Andhra Pradesh,Guntur,Chickpea,Pulses,221,5968.8,7281.9,1.22
+2021,Kharif,Andhra Pradesh,Krishna,Rice,Cereal,222,10586.5,37476.2,3.54
+2021,Rabi,Andhra Pradesh,Krishna,Wheat,Cereal,223,2837.1,11944.2,4.21
+2021,Kharif,Andhra Pradesh,Krishna,Maize,Cereal,224,10016.5,26042.9,2.6
+2021,Kharif,Andhra Pradesh,Krishna,Cotton,Commercial,225,7705.8,16413.4,2.13
+2021,Annual,Andhra Pradesh,Krishna,Sugarcane,Commercial,226,4625.2,320803.9,69.36
+2021,Rabi,Andhra Pradesh,Krishna,Mustard,Oilseed,227,9164.4,14663.0,1.6
+2021,Rabi,Andhra Pradesh,Krishna,Chickpea,Pulses,228,5181.7,6891.7,1.33
+2021,Kharif,Madhya Pradesh,Indore,Rice,Cereal,229,6257.2,24152.8,3.86
+2021,Rabi,Madhya Pradesh,Indore,Wheat,Cereal,230,4197.2,15151.9,3.61
+2021,Kharif,Madhya Pradesh,Indore,Maize,Cereal,231,7237.4,23304.4,3.22
+2021,Kharif,Madhya Pradesh,Indore,Cotton,Commercial,232,6482.0,12445.4,1.92
+2021,Annual,Madhya Pradesh,Indore,Sugarcane,Commercial,233,9109.4,565875.9,62.12
+2021,Kharif,Madhya Pradesh,Indore,Soybean,Oilseed,234,1671.8,3778.3,2.26
+2021,Rabi,Madhya Pradesh,Indore,Mustard,Oilseed,235,4839.2,7887.9,1.63
+2021,Rabi,Madhya Pradesh,Indore,Chickpea,Pulses,236,8163.4,11592.0,1.42
+2021,Kharif,Madhya Pradesh,Bhopal,Rice,Cereal,237,1054.1,3879.1,3.68
+2021,Rabi,Madhya Pradesh,Bhopal,Wheat,Cereal,238,1102.1,3868.4,3.51
+2021,Kharif,Madhya Pradesh,Bhopal,Maize,Cereal,239,8294.9,25631.2,3.09
+2021,Kharif,Madhya Pradesh,Bhopal,Cotton,Commercial,240,8701.9,16620.6,1.91
+2021,Annual,Madhya Pradesh,Bhopal,Sugarcane,Commercial,241,722.3,43930.3,60.82
+2021,Kharif,Madhya Pradesh,Bhopal,Soybean,Oilseed,242,11580.2,25360.6,2.19
+2021,Rabi,Madhya Pradesh,Bhopal,Mustard,Oilseed,243,3554.2,5224.7,1.47
+2021,Rabi,Madhya Pradesh,Bhopal,Chickpea,Pulses,244,10241.2,13313.6,1.3
+2021,Kharif,West Bengal,Burdwan,Rice,Cereal,245,3124.7,10749.0,3.44
+2021,Rabi,West Bengal,Burdwan,Wheat,Cereal,246,3091.9,12213.0,3.95
+2021,Kharif,West Bengal,Burdwan,Maize,Cereal,247,4963.9,14742.8,2.97
+2021,Annual,West Bengal,Burdwan,Sugarcane,Commercial,248,2194.0,144716.2,65.96
+2021,Rabi,West Bengal,Burdwan,Chickpea,Pulses,249,9780.1,13007.5,1.33
+2021,Kharif,West Bengal,Murshidabad,Rice,Cereal,250,3282.7,12671.2,3.86
+2021,Rabi,West Bengal,Murshidabad,Wheat,Cereal,251,7656.9,32541.8,4.25
+2021,Kharif,West Bengal,Murshidabad,Maize,Cereal,252,3344.4,10568.3,3.16
+2021,Annual,West Bengal,Murshidabad,Sugarcane,Commercial,253,4199.2,287309.3,68.42
+2021,Kharif,Gujarat,Rajkot,Rice,Cereal,254,9174.0,34586.0,3.77
+2021,Rabi,Gujarat,Rajkot,Wheat,Cereal,255,3264.6,12144.3,3.72
+2021,Kharif,Gujarat,Rajkot,Cotton,Commercial,256,7171.0,14485.4,2.02
+2021,Kharif,Gujarat,Rajkot,Soybean,Oilseed,257,2853.8,6478.1,2.27
+2021,Rabi,Gujarat,Rajkot,Chickpea,Pulses,258,10112.0,14257.9,1.41
+2022,Kharif,Punjab,Ludhiana,Rice,Cereal,259,1970.5,6936.2,3.52
+2022,Rabi,Punjab,Ludhiana,Wheat,Cereal,260,516.9,1829.8,3.54
+2022,Kharif,Punjab,Ludhiana,Cotton,Commercial,261,9893.0,18895.6,1.91
+2022,Annual,Punjab,Ludhiana,Sugarcane,Commercial,262,2424.2,153742.8,63.42
+2022,Kharif,Punjab,Ludhiana,Soybean,Oilseed,263,6352.2,13466.7,2.12
+2022,Rabi,Punjab,Ludhiana,Mustard,Oilseed,264,8883.3,14213.3,1.6
+2022,Rabi,Punjab,Ludhiana,Chickpea,Pulses,265,11391.5,15492.4,1.36
+2022,Kharif,Punjab,Amritsar,Rice,Cereal,266,3202.2,11816.1,3.69
+2022,Rabi,Punjab,Amritsar,Wheat,Cereal,267,2561.4,10706.7,4.18
+2022,Annual,Punjab,Amritsar,Sugarcane,Commercial,268,7686.1,505745.4,65.8
+2022,Kharif,Punjab,Amritsar,Soybean,Oilseed,269,4341.6,9681.8,2.23
+2022,Rabi,Punjab,Amritsar,Mustard,Oilseed,270,11361.2,16928.2,1.49
+2022,Rabi,Punjab,Amritsar,Chickpea,Pulses,271,5468.2,7710.2,1.41
+2022,Kharif,Punjab,Patiala,Rice,Cereal,272,4485.0,16639.3,3.71
+2022,Rabi,Punjab,Patiala,Wheat,Cereal,273,7441.8,27609.1,3.71
+2022,Kharif,Punjab,Patiala,Maize,Cereal,274,673.8,2203.3,3.27
+2022,Kharif,Punjab,Patiala,Cotton,Commercial,275,11387.4,20611.2,1.81
+2022,Annual,Punjab,Patiala,Sugarcane,Commercial,276,677.0,47755.6,70.54
+2022,Kharif,Punjab,Patiala,Soybean,Oilseed,277,9106.4,20944.7,2.3
+2022,Rabi,Punjab,Patiala,Mustard,Oilseed,278,8711.6,13067.4,1.5
+2022,Rabi,Punjab,Patiala,Chickpea,Pulses,279,8926.4,12050.6,1.35
+2022,Kharif,Haryana,Karnal,Rice,Cereal,280,8986.1,32439.8,3.61
+2022,Rabi,Haryana,Karnal,Wheat,Cereal,281,10796.5,44265.6,4.1
+2022,Kharif,Haryana,Karnal,Maize,Cereal,282,11267.2,31773.5,2.82
+2022,Annual,Haryana,Karnal,Sugarcane,Commercial,283,11161.8,751747.2,67.35
+2022,Rabi,Haryana,Karnal,Mustard,Oilseed,284,9862.4,14892.2,1.51
+2022,Kharif,Haryana,Hisar,Rice,Cereal,285,10028.4,37907.4,3.78
+2022,Rabi,Haryana,Hisar,Wheat,Cereal,286,6286.0,22503.9,3.58
+2022,Kharif,Haryana,Hisar,Maize,Cereal,287,8246.9,25153.0,3.05
+2022,Annual,Haryana,Hisar,Sugarcane,Commercial,288,3057.2,194774.2,63.71
+2022,Rabi,Haryana,Hisar,Mustard,Oilseed,289,6904.1,11115.6,1.61
+2022,Rabi,Haryana,Hisar,Chickpea,Pulses,290,7761.3,10089.7,1.3
+2022,Kharif,Uttar Pradesh,Varanasi,Rice,Cereal,291,5006.4,18723.9,3.74
+2022,Rabi,Uttar Pradesh,Varanasi,Wheat,Cereal,292,8419.3,28709.8,3.41
+2022,Kharif,Uttar Pradesh,Varanasi,Maize,Cereal,293,9602.9,29288.8,3.05
+2022,Kharif,Uttar Pradesh,Varanasi,Cotton,Commercial,294,1270.2,2718.2,2.14
+2022,Annual,Uttar Pradesh,Varanasi,Sugarcane,Commercial,295,9743.9,672816.3,69.05
+2022,Kharif,Uttar Pradesh,Varanasi,Soybean,Oilseed,296,4750.1,9975.2,2.1
+2022,Rabi,Uttar Pradesh,Varanasi,Mustard,Oilseed,297,1264.3,1896.4,1.5
+2022,Rabi,Uttar Pradesh,Varanasi,Chickpea,Pulses,298,7635.4,10613.2,1.39
+2022,Kharif,Uttar Pradesh,Meerut,Rice,Cereal,299,8022.5,31287.8,3.9
+2022,Rabi,Uttar Pradesh,Meerut,Wheat,Cereal,300,4109.0,15901.8,3.87
+2022,Kharif,Uttar Pradesh,Meerut,Cotton,Commercial,301,9656.8,18734.2,1.94
+2022,Annual,Uttar Pradesh,Meerut,Sugarcane,Commercial,302,8488.4,565412.3,66.61
+2022,Kharif,Uttar Pradesh,Meerut,Soybean,Oilseed,303,1516.4,3275.4,2.16
+2022,Rabi,Uttar Pradesh,Meerut,Mustard,Oilseed,304,8168.7,13151.6,1.61
+2022,Rabi,Uttar Pradesh,Meerut,Chickpea,Pulses,305,1273.4,1744.6,1.37
+2022,Kharif,Uttar Pradesh,Agra,Rice,Cereal,306,1995.9,6845.9,3.43
+2022,Rabi,Uttar Pradesh,Agra,Wheat,Cereal,307,9266.5,34564.0,3.73
+2022,Kharif,Uttar Pradesh,Agra,Maize,Cereal,308,9202.4,26042.8,2.83
+2022,Kharif,Uttar Pradesh,Agra,Cotton,Commercial,309,6568.3,12676.8,1.93
+2022,Annual,Uttar Pradesh,Agra,Sugarcane,Commercial,310,8291.6,538871.1,64.99
+2022,Kharif,Uttar Pradesh,Agra,Soybean,Oilseed,311,2296.4,5052.1,2.2
+2022,Rabi,Uttar Pradesh,Agra,Mustard,Oilseed,312,720.2,1173.9,1.63
+2022,Rabi,Uttar Pradesh,Agra,Chickpea,Pulses,313,7085.0,9423.1,1.33
+2022,Kharif,Maharashtra,Pune,Rice,Cereal,314,10653.5,36861.1,3.46
+2022,Rabi,Maharashtra,Pune,Wheat,Cereal,315,5847.6,24443.0,4.18
+2022,Kharif,Maharashtra,Pune,Cotton,Commercial,316,5894.7,11730.5,1.99
+2022,Kharif,Maharashtra,Pune,Soybean,Oilseed,317,1991.3,4141.9,2.08
+2022,Rabi,Maharashtra,Pune,Mustard,Oilseed,318,6979.2,11794.8,1.69
+2022,Rabi,Maharashtra,Pune,Chickpea,Pulses,319,1446.1,1851.0,1.28
+2022,Kharif,Maharashtra,Nagpur,Rice,Cereal,320,9436.1,36423.3,3.86
+2022,Rabi,Maharashtra,Nagpur,Wheat,Cereal,321,6056.6,24589.8,4.06
+2022,Kharif,Maharashtra,Nagpur,Maize,Cereal,322,11441.6,32723.0,2.86
+2022,Kharif,Maharashtra,Nagpur,Cotton,Commercial,323,8109.2,13947.8,1.72
+2022,Kharif,Maharashtra,Nagpur,Soybean,Oilseed,324,11654.2,25522.7,2.19
+2022,Rabi,Maharashtra,Nagpur,Chickpea,Pulses,325,2513.9,3444.0,1.37
+2022,Rabi,Maharashtra,Nashik,Wheat,Cereal,326,5770.7,21871.0,3.79
+2022,Kharif,Maharashtra,Nashik,Maize,Cereal,327,9246.6,27000.1,2.92
+2022,Kharif,Maharashtra,Nashik,Cotton,Commercial,328,6371.7,12042.5,1.89
+2022,Annual,Maharashtra,Nashik,Sugarcane,Commercial,329,2347.8,156387.0,66.61
+2022,Kharif,Maharashtra,Nashik,Soybean,Oilseed,330,9716.6,21085.0,2.17
+2022,Rabi,Maharashtra,Nashik,Chickpea,Pulses,331,1260.9,1664.4,1.32
+2022,Kharif,Karnataka,Dharwad,Rice,Cereal,332,3553.2,13004.7,3.66
+2022,Kharif,Karnataka,Dharwad,Maize,Cereal,333,7660.9,24285.1,3.17
+2022,Annual,Karnataka,Dharwad,Sugarcane,Commercial,334,11179.3,714580.9,63.92
+2022,Rabi,Karnataka,Dharwad,Mustard,Oilseed,335,9169.5,13204.1,1.44
+2022,Rabi,Karnataka,Dharwad,Chickpea,Pulses,336,3623.8,4529.8,1.25
+2022,Kharif,Karnataka,Bellary,Rice,Cereal,337,3949.3,13506.6,3.42
+2022,Kharif,Karnataka,Bellary,Maize,Cereal,338,11212.9,34647.9,3.09
+2022,Kharif,Karnataka,Bellary,Cotton,Commercial,339,5835.8,11321.5,1.94
+2022,Annual,Karnataka,Bellary,Sugarcane,Commercial,340,2484.0,165285.4,66.54
+2022,Kharif,Karnataka,Bellary,Soybean,Oilseed,341,3407.9,7122.5,2.09
+2022,Rabi,Karnataka,Bellary,Mustard,Oilseed,342,2904.2,4356.3,1.5
+2022,Rabi,Karnataka,Bellary,Chickpea,Pulses,343,5779.9,8091.9,1.4
+2022,Kharif,Andhra Pradesh,Guntur,Rice,Cereal,344,8048.7,28331.4,3.52
+2022,Rabi,Andhra Pradesh,Guntur,Wheat,Cereal,345,1383.2,5505.1,3.98
+2022,Kharif,Andhra Pradesh,Guntur,Maize,Cereal,346,1717.6,5170.0,3.01
+2022,Kharif,Andhra Pradesh,Guntur,Cotton,Commercial,347,982.0,1964.0,2.0
+2022,Annual,Andhra Pradesh,Guntur,Sugarcane,Commercial,348,11244.5,770698.0,68.54
+2022,Kharif,Andhra Pradesh,Guntur,Soybean,Oilseed,349,9981.4,21260.4,2.13
+2022,Rabi,Andhra Pradesh,Guntur,Mustard,Oilseed,350,6066.2,9645.3,1.59
+2022,Rabi,Andhra Pradesh,Guntur,Chickpea,Pulses,351,9762.4,15131.7,1.55
+2022,Kharif,Andhra Pradesh,Krishna,Rice,Cereal,352,11293.1,40203.4,3.56
+2022,Kharif,Andhra Pradesh,Krishna,Maize,Cereal,353,9208.8,26705.5,2.9
+2022,Annual,Andhra Pradesh,Krishna,Sugarcane,Commercial,354,11154.3,692235.9,62.06
+2022,Rabi,Andhra Pradesh,Krishna,Mustard,Oilseed,355,963.0,1598.6,1.66
+2022,Rabi,Andhra Pradesh,Krishna,Chickpea,Pulses,356,6823.5,8256.4,1.21
+2022,Kharif,Madhya Pradesh,Indore,Rice,Cereal,357,4380.7,16383.8,3.74
+2022,Rabi,Madhya Pradesh,Indore,Wheat,Cereal,358,5037.6,19495.5,3.87
+2022,Kharif,Madhya Pradesh,Indore,Maize,Cereal,359,5197.2,15903.4,3.06
+2022,Kharif,Madhya Pradesh,Indore,Cotton,Commercial,360,10690.0,22342.1,2.09
+2022,Annual,Madhya Pradesh,Indore,Sugarcane,Commercial,361,9980.0,644109.2,64.54
+2022,Kharif,Madhya Pradesh,Indore,Soybean,Oilseed,362,10460.2,21338.8,2.04
+2022,Rabi,Madhya Pradesh,Indore,Mustard,Oilseed,363,2817.6,4001.0,1.42
+2022,Rabi,Madhya Pradesh,Indore,Chickpea,Pulses,364,10454.0,13799.3,1.32
+2022,Kharif,Madhya Pradesh,Bhopal,Rice,Cereal,365,7116.6,25690.9,3.61
+2022,Rabi,Madhya Pradesh,Bhopal,Wheat,Cereal,366,3015.2,11126.1,3.69
+2022,Kharif,Madhya Pradesh,Bhopal,Maize,Cereal,367,657.3,1873.3,2.85
+2022,Kharif,Madhya Pradesh,Bhopal,Cotton,Commercial,368,8134.0,17732.1,2.18
+2022,Annual,Madhya Pradesh,Bhopal,Sugarcane,Commercial,369,11048.6,730864.9,66.15
+2022,Kharif,Madhya Pradesh,Bhopal,Soybean,Oilseed,370,8278.2,18294.8,2.21
+2022,Rabi,Madhya Pradesh,Bhopal,Mustard,Oilseed,371,8880.9,13676.6,1.54
+2022,Rabi,Madhya Pradesh,Bhopal,Chickpea,Pulses,372,9467.9,11172.1,1.18
+2022,Kharif,West Bengal,Burdwan,Rice,Cereal,373,6416.3,21815.4,3.4
+2022,Kharif,West Bengal,Burdwan,Maize,Cereal,374,2534.3,7349.5,2.9
+2022,Kharif,West Bengal,Burdwan,Cotton,Commercial,375,8345.2,16106.2,1.93
+2022,Annual,West Bengal,Burdwan,Sugarcane,Commercial,376,10537.9,729749.6,69.25
+2022,Kharif,West Bengal,Burdwan,Soybean,Oilseed,377,11580.0,23623.2,2.04
+2022,Rabi,West Bengal,Burdwan,Mustard,Oilseed,378,9930.8,15492.0,1.56
+2022,Rabi,West Bengal,Burdwan,Chickpea,Pulses,379,8897.5,11744.7,1.32
+2022,Kharif,West Bengal,Murshidabad,Rice,Cereal,380,740.7,2696.1,3.64
+2022,Rabi,West Bengal,Murshidabad,Wheat,Cereal,381,5241.2,19864.1,3.79
+2022,Kharif,West Bengal,Murshidabad,Maize,Cereal,382,6318.2,18512.3,2.93
+2022,Kharif,West Bengal,Murshidabad,Cotton,Commercial,383,4953.7,9461.6,1.91
+2022,Annual,West Bengal,Murshidabad,Sugarcane,Commercial,384,7420.8,515671.4,69.49
+2022,Rabi,Gujarat,Rajkot,Wheat,Cereal,385,6713.2,22422.1,3.34
+2022,Kharif,Gujarat,Rajkot,Maize,Cereal,386,1427.1,4295.6,3.01
+2022,Kharif,Gujarat,Rajkot,Cotton,Commercial,387,9509.9,18639.4,1.96
+2022,Kharif,Gujarat,Rajkot,Soybean,Oilseed,388,11263.3,24779.3,2.2
+2022,Rabi,Gujarat,Rajkot,Mustard,Oilseed,389,1127.5,1781.5,1.58
+2022,Rabi,Gujarat,Rajkot,Chickpea,Pulses,390,7262.0,9368.0,1.29
+2023,Kharif,Punjab,Ludhiana,Rice,Cereal,391,11516.4,42956.2,3.73
+2023,Rabi,Punjab,Ludhiana,Wheat,Cereal,392,9282.5,34716.6,3.74
+2023,Kharif,Punjab,Ludhiana,Maize,Cereal,393,1088.2,3286.4,3.02
+2023,Kharif,Punjab,Ludhiana,Cotton,Commercial,394,10597.4,21300.8,2.01
+2023,Annual,Punjab,Ludhiana,Sugarcane,Commercial,395,4618.6,312125.0,67.58
+2023,Kharif,Punjab,Ludhiana,Soybean,Oilseed,396,6130.9,13058.8,2.13
+2023,Rabi,Punjab,Ludhiana,Mustard,Oilseed,397,3224.6,4901.4,1.52
+2023,Rabi,Punjab,Ludhiana,Chickpea,Pulses,398,4524.3,6107.8,1.35
+2023,Kharif,Punjab,Amritsar,Rice,Cereal,399,11749.5,42063.2,3.58
+2023,Rabi,Punjab,Amritsar,Wheat,Cereal,400,10463.9,38402.5,3.67
+2023,Annual,Punjab,Amritsar,Sugarcane,Commercial,401,5054.0,312539.4,61.84
+2023,Kharif,Punjab,Amritsar,Soybean,Oilseed,402,7119.3,13953.8,1.96
+2023,Rabi,Punjab,Amritsar,Mustard,Oilseed,403,9472.4,12882.5,1.36
+2023,Rabi,Punjab,Amritsar,Chickpea,Pulses,404,3505.3,4627.0,1.32
+2023,Kharif,Punjab,Patiala,Rice,Cereal,405,775.4,2830.2,3.65
+2023,Rabi,Punjab,Patiala,Wheat,Cereal,406,6495.8,26178.1,4.03
+2023,Kharif,Punjab,Patiala,Cotton,Commercial,407,11000.0,22770.0,2.07
+2023,Annual,Punjab,Patiala,Sugarcane,Commercial,408,5404.7,360655.6,66.73
+2023,Rabi,Punjab,Patiala,Mustard,Oilseed,409,659.4,1041.9,1.58
+2023,Rabi,Punjab,Patiala,Chickpea,Pulses,410,10617.2,11785.1,1.11
+2023,Kharif,Haryana,Karnal,Rice,Cereal,411,8261.3,29575.5,3.58
+2023,Rabi,Haryana,Karnal,Wheat,Cereal,412,11247.3,41165.1,3.66
+2023,Kharif,Haryana,Karnal,Maize,Cereal,413,6301.2,19155.6,3.04
+2023,Kharif,Haryana,Karnal,Cotton,Commercial,414,10956.4,20926.7,1.91
+2023,Annual,Haryana,Karnal,Sugarcane,Commercial,415,4144.8,271774.5,65.57
+2023,Rabi,Haryana,Karnal,Mustard,Oilseed,416,6256.7,10198.4,1.63
+2023,Kharif,Haryana,Hisar,Rice,Cereal,417,9837.4,36693.5,3.73
+2023,Rabi,Haryana,Hisar,Wheat,Cereal,418,1116.8,4221.5,3.78
+2023,Kharif,Haryana,Hisar,Maize,Cereal,419,6377.8,19388.5,3.04
+2023,Kharif,Haryana,Hisar,Cotton,Commercial,420,8841.8,17241.5,1.95
+2023,Annual,Haryana,Hisar,Sugarcane,Commercial,421,5020.9,331580.2,66.04
+2023,Kharif,Haryana,Hisar,Soybean,Oilseed,422,10619.0,23680.4,2.23
+2023,Rabi,Haryana,Hisar,Mustard,Oilseed,423,9528.2,15721.5,1.65
+2023,Rabi,Haryana,Hisar,Chickpea,Pulses,424,7354.6,9266.8,1.26
+2023,Kharif,Uttar Pradesh,Varanasi,Rice,Cereal,425,2429.9,8480.4,3.49
+2023,Rabi,Uttar Pradesh,Varanasi,Wheat,Cereal,426,4810.5,19578.7,4.07
+2023,Kharif,Uttar Pradesh,Varanasi,Cotton,Commercial,427,10406.6,21125.4,2.03
+2023,Annual,Uttar Pradesh,Varanasi,Sugarcane,Commercial,428,11909.6,788415.5,66.2
+2023,Kharif,Uttar Pradesh,Varanasi,Soybean,Oilseed,429,506.9,1054.4,2.08
+2023,Rabi,Uttar Pradesh,Varanasi,Mustard,Oilseed,430,10910.9,16911.9,1.55
+2023,Rabi,Uttar Pradesh,Varanasi,Chickpea,Pulses,431,1908.7,2767.6,1.45
+2023,Kharif,Uttar Pradesh,Meerut,Rice,Cereal,432,10320.3,35914.6,3.48
+2023,Rabi,Uttar Pradesh,Meerut,Wheat,Cereal,433,6762.4,26779.1,3.96
+2023,Kharif,Uttar Pradesh,Meerut,Cotton,Commercial,434,6791.0,12495.4,1.84
+2023,Annual,Uttar Pradesh,Meerut,Sugarcane,Commercial,435,2123.8,149409.3,70.35
+2023,Kharif,Uttar Pradesh,Meerut,Soybean,Oilseed,436,2179.2,5077.5,2.33
+2023,Rabi,Uttar Pradesh,Meerut,Mustard,Oilseed,437,2207.8,3488.3,1.58
+2023,Rabi,Uttar Pradesh,Meerut,Chickpea,Pulses,438,7410.9,10152.9,1.37
+2023,Kharif,Uttar Pradesh,Agra,Rice,Cereal,439,8364.5,30028.6,3.59
+2023,Rabi,Uttar Pradesh,Agra,Wheat,Cereal,440,2192.4,8616.1,3.93
+2023,Kharif,Uttar Pradesh,Agra,Maize,Cereal,441,10671.5,33828.7,3.17
+2023,Kharif,Uttar Pradesh,Agra,Cotton,Commercial,442,4396.5,9188.7,2.09
+2023,Annual,Uttar Pradesh,Agra,Sugarcane,Commercial,443,5373.4,354590.7,65.99
+2023,Kharif,Uttar Pradesh,Agra,Soybean,Oilseed,444,9835.8,18983.1,1.93
+2023,Rabi,Uttar Pradesh,Agra,Mustard,Oilseed,445,5043.1,7766.4,1.54
+2023,Rabi,Uttar Pradesh,Agra,Chickpea,Pulses,446,9117.7,11761.8,1.29
+2023,Rabi,Maharashtra,Pune,Wheat,Cereal,447,6538.1,25302.4,3.87
+2023,Kharif,Maharashtra,Pune,Cotton,Commercial,448,8873.3,18545.2,2.09
+2023,Annual,Maharashtra,Pune,Sugarcane,Commercial,449,9881.1,692665.1,70.1
+2023,Kharif,Maharashtra,Pune,Soybean,Oilseed,450,10246.8,22338.0,2.18
+2023,Rabi,Maharashtra,Pune,Chickpea,Pulses,451,10366.3,13787.2,1.33
+2023,Kharif,Maharashtra,Nagpur,Rice,Cereal,452,6623.4,24307.9,3.67
+2023,Kharif,Maharashtra,Nagpur,Cotton,Commercial,453,2708.3,5687.4,2.1
+2023,Annual,Maharashtra,Nagpur,Sugarcane,Commercial,454,2636.4,160161.3,60.75
+2023,Kharif,Maharashtra,Nagpur,Soybean,Oilseed,455,11110.4,22776.3,2.05
+2023,Rabi,Maharashtra,Nagpur,Mustard,Oilseed,456,9017.6,14969.2,1.66
+2023,Rabi,Maharashtra,Nagpur,Chickpea,Pulses,457,1361.3,1892.2,1.39
+2023,Kharif,Maharashtra,Nashik,Maize,Cereal,458,5349.7,15728.1,2.94
+2023,Kharif,Maharashtra,Nashik,Cotton,Commercial,459,1644.2,3008.9,1.83
+2023,Annual,Maharashtra,Nashik,Sugarcane,Commercial,460,6043.2,402114.5,66.54
+2023,Kharif,Maharashtra,Nashik,Soybean,Oilseed,461,6783.7,14924.1,2.2
+2023,Rabi,Maharashtra,Nashik,Mustard,Oilseed,462,8355.8,12032.4,1.44
+2023,Rabi,Maharashtra,Nashik,Chickpea,Pulses,463,10841.4,15178.0,1.4
+2023,Kharif,Karnataka,Dharwad,Rice,Cereal,464,2616.5,9654.9,3.69
+2023,Kharif,Karnataka,Dharwad,Maize,Cereal,465,2840.7,9061.8,3.19
+2023,Kharif,Karnataka,Dharwad,Cotton,Commercial,466,2037.5,4258.4,2.09
+2023,Annual,Karnataka,Dharwad,Sugarcane,Commercial,467,8559.3,600948.5,70.21
+2023,Rabi,Karnataka,Dharwad,Mustard,Oilseed,468,11731.1,19121.7,1.63
+2023,Kharif,Karnataka,Bellary,Rice,Cereal,469,5612.6,21720.8,3.87
+2023,Kharif,Karnataka,Bellary,Maize,Cereal,470,7208.0,21191.5,2.94
+2023,Kharif,Karnataka,Bellary,Cotton,Commercial,471,8454.8,15810.5,1.87
+2023,Annual,Karnataka,Bellary,Sugarcane,Commercial,472,7193.8,514212.8,71.48
+2023,Kharif,Karnataka,Bellary,Soybean,Oilseed,473,10594.1,21612.0,2.04
+2023,Rabi,Karnataka,Bellary,Mustard,Oilseed,474,1984.3,2936.8,1.48
+2023,Rabi,Karnataka,Bellary,Chickpea,Pulses,475,10748.1,15047.3,1.4
+2023,Kharif,Andhra Pradesh,Guntur,Rice,Cereal,476,5878.8,21575.2,3.67
+2023,Kharif,Andhra Pradesh,Guntur,Maize,Cereal,477,10705.4,34899.6,3.26
+2023,Kharif,Andhra Pradesh,Guntur,Cotton,Commercial,478,5157.1,10056.3,1.95
+2023,Annual,Andhra Pradesh,Guntur,Sugarcane,Commercial,479,4139.3,273690.5,66.12
+2023,Kharif,Andhra Pradesh,Guntur,Soybean,Oilseed,480,3462.8,7825.9,2.26
+2023,Rabi,Andhra Pradesh,Guntur,Mustard,Oilseed,481,3113.5,4016.4,1.29
+2023,Rabi,Andhra Pradesh,Guntur,Chickpea,Pulses,482,9490.5,12337.6,1.3
+2023,Kharif,Andhra Pradesh,Krishna,Rice,Cereal,483,3499.8,11654.3,3.33
+2023,Rabi,Andhra Pradesh,Krishna,Wheat,Cereal,484,10481.8,43394.7,4.14
+2023,Kharif,Andhra Pradesh,Krishna,Maize,Cereal,485,11617.4,36130.1,3.11
+2023,Annual,Andhra Pradesh,Krishna,Sugarcane,Commercial,486,1094.1,70919.6,64.82
+2023,Rabi,Andhra Pradesh,Krishna,Chickpea,Pulses,487,3278.4,4393.1,1.34
+2023,Kharif,Madhya Pradesh,Indore,Rice,Cereal,488,2926.2,11061.0,3.78
+2023,Rabi,Madhya Pradesh,Indore,Wheat,Cereal,489,7632.7,29767.5,3.9
+2023,Kharif,Madhya Pradesh,Indore,Cotton,Commercial,490,4995.6,10490.8,2.1
+2023,Annual,Madhya Pradesh,Indore,Sugarcane,Commercial,491,9443.9,647662.7,68.58
+2023,Kharif,Madhya Pradesh,Indore,Soybean,Oilseed,492,8473.8,18133.9,2.14
+2023,Rabi,Madhya Pradesh,Indore,Mustard,Oilseed,493,7511.3,12318.5,1.64
+2023,Rabi,Madhya Pradesh,Indore,Chickpea,Pulses,494,10723.5,14369.5,1.34
+2023,Kharif,Madhya Pradesh,Bhopal,Rice,Cereal,495,6297.5,23237.8,3.69
+2023,Rabi,Madhya Pradesh,Bhopal,Wheat,Cereal,496,9329.3,34984.9,3.75
+2023,Kharif,Madhya Pradesh,Bhopal,Maize,Cereal,497,1436.6,4151.8,2.89
+2023,Kharif,Madhya Pradesh,Bhopal,Cotton,Commercial,498,1727.2,3575.3,2.07
+2023,Annual,Madhya Pradesh,Bhopal,Sugarcane,Commercial,499,7519.3,503266.7,66.93
+2023,Kharif,Madhya Pradesh,Bhopal,Soybean,Oilseed,500,11202.7,24197.8,2.16
+2023,Rabi,Madhya Pradesh,Bhopal,Mustard,Oilseed,501,11798.5,19467.5,1.65
+2023,Rabi,Madhya Pradesh,Bhopal,Chickpea,Pulses,502,5409.3,7897.6,1.46
+2023,Kharif,West Bengal,Burdwan,Rice,Cereal,503,5995.5,20564.6,3.43
+2023,Rabi,West Bengal,Burdwan,Wheat,Cereal,504,7373.3,28387.2,3.85
+2023,Kharif,West Bengal,Burdwan,Maize,Cereal,505,5345.0,14752.2,2.76
+2023,Annual,West Bengal,Burdwan,Sugarcane,Commercial,506,6784.5,446759.3,65.85
+2023,Kharif,West Bengal,Burdwan,Soybean,Oilseed,507,4257.5,9409.1,2.21
+2023,Kharif,West Bengal,Murshidabad,Rice,Cereal,508,4553.5,15664.0,3.44
+2023,Rabi,West Bengal,Murshidabad,Wheat,Cereal,509,10096.3,38063.1,3.77
+2023,Kharif,West Bengal,Murshidabad,Maize,Cereal,510,8690.5,25115.5,2.89
+2023,Kharif,West Bengal,Murshidabad,Cotton,Commercial,511,3178.1,6292.6,1.98
+2023,Annual,West Bengal,Murshidabad,Sugarcane,Commercial,512,3860.9,250958.5,65.0
+2023,Kharif,West Bengal,Murshidabad,Soybean,Oilseed,513,10930.3,24156.0,2.21
+2023,Rabi,West Bengal,Murshidabad,Mustard,Oilseed,514,2154.5,3404.1,1.58
+2023,Rabi,West Bengal,Murshidabad,Chickpea,Pulses,515,8350.7,11440.5,1.37
+2023,Rabi,Gujarat,Rajkot,Wheat,Cereal,516,1730.8,7061.7,4.08
+2023,Kharif,Gujarat,Rajkot,Cotton,Commercial,517,3407.6,5929.2,1.74
+2023,Annual,Gujarat,Rajkot,Sugarcane,Commercial,518,7707.7,496530.0,64.42
+2023,Kharif,Gujarat,Rajkot,Soybean,Oilseed,519,9926.3,22334.2,2.25
+2023,Rabi,Gujarat,Rajkot,Chickpea,Pulses,520,11740.5,17845.6,1.52
+2024,Kharif,Punjab,Ludhiana,Rice,Cereal,521,4435.6,17210.1,3.88
+2024,Rabi,Punjab,Ludhiana,Wheat,Cereal,522,6212.5,24477.2,3.94
+2024,Kharif,Punjab,Ludhiana,Maize,Cereal,523,6650.2,21347.1,3.21
+2024,Kharif,Punjab,Ludhiana,Cotton,Commercial,524,7745.2,15490.4,2.0
+2024,Annual,Punjab,Ludhiana,Sugarcane,Commercial,525,2368.9,167907.6,70.88
+2024,Kharif,Punjab,Ludhiana,Soybean,Oilseed,526,585.8,1259.5,2.15
+2024,Rabi,Punjab,Ludhiana,Mustard,Oilseed,527,3222.3,4865.7,1.51
+2024,Kharif,Punjab,Amritsar,Rice,Cereal,528,7708.2,27826.6,3.61
+2024,Rabi,Punjab,Amritsar,Wheat,Cereal,529,8765.0,28398.6,3.24
+2024,Kharif,Punjab,Amritsar,Cotton,Commercial,530,6743.8,13555.0,2.01
+2024,Annual,Punjab,Amritsar,Sugarcane,Commercial,531,5172.8,364268.6,70.42
+2024,Rabi,Punjab,Amritsar,Mustard,Oilseed,532,3322.7,5449.2,1.64
+2024,Rabi,Punjab,Amritsar,Chickpea,Pulses,533,8374.3,11221.6,1.34
+2024,Kharif,Punjab,Patiala,Rice,Cereal,534,2336.2,8106.6,3.47
+2024,Rabi,Punjab,Patiala,Wheat,Cereal,535,5104.1,21233.1,4.16
+2024,Kharif,Punjab,Patiala,Maize,Cereal,536,3825.2,12164.1,3.18
+2024,Annual,Punjab,Patiala,Sugarcane,Commercial,537,652.7,41687.9,63.87
+2024,Kharif,Punjab,Patiala,Soybean,Oilseed,538,7955.0,17580.5,2.21
+2024,Rabi,Punjab,Patiala,Mustard,Oilseed,539,3411.8,5390.6,1.58
+2024,Rabi,Punjab,Patiala,Chickpea,Pulses,540,1528.9,1712.4,1.12
+2024,Kharif,Haryana,Karnal,Rice,Cereal,541,9572.5,34461.0,3.6
+2024,Rabi,Haryana,Karnal,Wheat,Cereal,542,2349.9,9117.6,3.88
+2024,Kharif,Haryana,Karnal,Cotton,Commercial,543,5926.9,11853.8,2.0
+2024,Annual,Haryana,Karnal,Sugarcane,Commercial,544,9630.5,627812.3,65.19
+2024,Rabi,Haryana,Karnal,Mustard,Oilseed,545,6757.2,10338.5,1.53
+2024,Kharif,Haryana,Hisar,Rice,Cereal,546,2868.9,10701.0,3.73
+2024,Rabi,Haryana,Hisar,Wheat,Cereal,547,1101.2,4305.7,3.91
+2024,Kharif,Haryana,Hisar,Maize,Cereal,548,6169.8,17583.9,2.85
+2024,Kharif,Haryana,Hisar,Cotton,Commercial,549,8077.4,17447.2,2.16
+2024,Annual,Haryana,Hisar,Sugarcane,Commercial,550,3773.8,258618.5,68.53
+2024,Kharif,Haryana,Hisar,Soybean,Oilseed,551,4659.2,9877.5,2.12
+2024,Rabi,Haryana,Hisar,Mustard,Oilseed,552,7167.4,11037.8,1.54
+2024,Kharif,Uttar Pradesh,Varanasi,Rice,Cereal,553,3363.2,11872.1,3.53
+2024,Rabi,Uttar Pradesh,Varanasi,Wheat,Cereal,554,6560.6,23027.7,3.51
+2024,Kharif,Uttar Pradesh,Varanasi,Cotton,Commercial,555,3918.0,7091.6,1.81
+2024,Annual,Uttar Pradesh,Varanasi,Sugarcane,Commercial,556,2907.0,177501.4,61.06
+2024,Kharif,Uttar Pradesh,Varanasi,Soybean,Oilseed,557,1089.1,2406.9,2.21
+2024,Rabi,Uttar Pradesh,Varanasi,Mustard,Oilseed,558,4793.6,6711.0,1.4
+2024,Rabi,Uttar Pradesh,Varanasi,Chickpea,Pulses,559,11838.2,16218.3,1.37
+2024,Kharif,Uttar Pradesh,Meerut,Rice,Cereal,560,7908.4,29102.9,3.68
+2024,Rabi,Uttar Pradesh,Meerut,Wheat,Cereal,561,9670.3,39648.2,4.1
+2024,Kharif,Uttar Pradesh,Meerut,Maize,Cereal,562,8130.1,24878.1,3.06
+2024,Kharif,Uttar Pradesh,Meerut,Cotton,Commercial,563,1254.7,2509.4,2.0
+2024,Annual,Uttar Pradesh,Meerut,Sugarcane,Commercial,564,6970.5,474063.7,68.01
+2024,Kharif,Uttar Pradesh,Meerut,Soybean,Oilseed,565,2142.0,4498.2,2.1
+2024,Rabi,Uttar Pradesh,Meerut,Mustard,Oilseed,566,4082.4,6531.8,1.6
+2024,Rabi,Uttar Pradesh,Meerut,Chickpea,Pulses,567,6548.4,8709.4,1.33
+2024,Kharif,Uttar Pradesh,Agra,Rice,Cereal,568,7137.6,25552.6,3.58
+2024,Rabi,Uttar Pradesh,Agra,Wheat,Cereal,569,5866.9,20123.5,3.43
+2024,Kharif,Uttar Pradesh,Agra,Maize,Cereal,570,5798.2,15191.3,2.62
+2024,Kharif,Uttar Pradesh,Agra,Cotton,Commercial,571,11770.1,22363.2,1.9
+2024,Annual,Uttar Pradesh,Agra,Sugarcane,Commercial,572,11367.7,798580.9,70.25
+2024,Kharif,Uttar Pradesh,Agra,Soybean,Oilseed,573,2389.1,5041.0,2.11
+2024,Rabi,Uttar Pradesh,Agra,Mustard,Oilseed,574,820.2,1181.1,1.44
+2024,Rabi,Uttar Pradesh,Agra,Chickpea,Pulses,575,5257.2,6624.1,1.26
+2024,Kharif,Maharashtra,Pune,Rice,Cereal,576,10648.1,35564.7,3.34
+2024,Kharif,Maharashtra,Pune,Maize,Cereal,577,10350.6,30016.7,2.9
+2024,Kharif,Maharashtra,Pune,Cotton,Commercial,578,5850.7,10531.3,1.8
+2024,Kharif,Maharashtra,Pune,Soybean,Oilseed,579,6964.7,15322.3,2.2
+2024,Rabi,Maharashtra,Pune,Chickpea,Pulses,580,6068.5,7524.9,1.24
+2024,Kharif,Maharashtra,Nagpur,Rice,Cereal,581,4493.8,16357.4,3.64
+2024,Rabi,Maharashtra,Nagpur,Wheat,Cereal,582,9974.8,39201.0,3.93
+2024,Kharif,Maharashtra,Nagpur,Maize,Cereal,583,6048.7,18751.0,3.1
+2024,Kharif,Maharashtra,Nagpur,Cotton,Commercial,584,7443.6,14217.3,1.91
+2024,Kharif,Maharashtra,Nagpur,Soybean,Oilseed,585,1474.8,3465.8,2.35
+2024,Rabi,Maharashtra,Nagpur,Mustard,Oilseed,586,10221.3,16558.5,1.62
+2024,Rabi,Maharashtra,Nagpur,Chickpea,Pulses,587,10178.6,14453.6,1.42
+2024,Kharif,Maharashtra,Nashik,Rice,Cereal,588,9757.1,35515.8,3.64
+2024,Rabi,Maharashtra,Nashik,Wheat,Cereal,589,6501.1,25809.4,3.97
+2024,Kharif,Maharashtra,Nashik,Maize,Cereal,590,4596.2,13329.0,2.9
+2024,Kharif,Maharashtra,Nashik,Cotton,Commercial,591,11080.4,19833.9,1.79
+2024,Annual,Maharashtra,Nashik,Sugarcane,Commercial,592,2697.2,187698.1,69.59
+2024,Kharif,Maharashtra,Nashik,Soybean,Oilseed,593,3398.0,7339.7,2.16
+2024,Rabi,Maharashtra,Nashik,Mustard,Oilseed,594,4046.0,5907.2,1.46
+2024,Rabi,Maharashtra,Nashik,Chickpea,Pulses,595,1802.2,2541.1,1.41
+2024,Kharif,Karnataka,Dharwad,Rice,Cereal,596,8544.6,31187.8,3.65
+2024,Rabi,Karnataka,Dharwad,Wheat,Cereal,597,5672.7,20932.3,3.69
+2024,Kharif,Karnataka,Dharwad,Maize,Cereal,598,1520.9,4806.0,3.16
+2024,Annual,Karnataka,Dharwad,Sugarcane,Commercial,599,7081.3,447184.1,63.15
+2024,Kharif,Karnataka,Dharwad,Soybean,Oilseed,600,3333.0,7299.3,2.19
+2024,Rabi,Karnataka,Dharwad,Mustard,Oilseed,601,10440.6,15556.5,1.49
+2024,Kharif,Karnataka,Bellary,Rice,Cereal,602,8285.9,29000.6,3.5
+2024,Rabi,Karnataka,Bellary,Wheat,Cereal,603,4858.0,17197.3,3.54
+2024,Kharif,Karnataka,Bellary,Maize,Cereal,604,5273.7,14871.8,2.82
+2024,Annual,Karnataka,Bellary,Sugarcane,Commercial,605,1531.6,107916.5,70.46
+2024,Kharif,Karnataka,Bellary,Soybean,Oilseed,606,10411.2,22904.6,2.2
+2024,Rabi,Karnataka,Bellary,Mustard,Oilseed,607,7081.6,10480.8,1.48
+2024,Kharif,Andhra Pradesh,Guntur,Rice,Cereal,608,4274.9,15560.6,3.64
+2024,Rabi,Andhra Pradesh,Guntur,Wheat,Cereal,609,1129.6,4382.8,3.88
+2024,Kharif,Andhra Pradesh,Guntur,Maize,Cereal,610,9997.7,29593.2,2.96
+2024,Annual,Andhra Pradesh,Guntur,Sugarcane,Commercial,611,1156.6,74751.1,64.63
+2024,Kharif,Andhra Pradesh,Guntur,Soybean,Oilseed,612,9400.9,19647.9,2.09
+2024,Rabi,Andhra Pradesh,Guntur,Mustard,Oilseed,613,11715.3,19095.9,1.63
+2024,Rabi,Andhra Pradesh,Guntur,Chickpea,Pulses,614,10897.3,14493.4,1.33
+2024,Kharif,Andhra Pradesh,Krishna,Rice,Cereal,615,1325.0,4703.8,3.55
+2024,Rabi,Andhra Pradesh,Krishna,Wheat,Cereal,616,10953.6,41514.1,3.79
+2024,Kharif,Andhra Pradesh,Krishna,Maize,Cereal,617,6285.3,17661.7,2.81
+2024,Annual,Andhra Pradesh,Krishna,Sugarcane,Commercial,618,9323.2,595659.2,63.89
+2024,Kharif,Andhra Pradesh,Krishna,Soybean,Oilseed,619,11195.1,23621.7,2.11
+2024,Rabi,Andhra Pradesh,Krishna,Mustard,Oilseed,620,3518.9,4926.5,1.4
+2024,Rabi,Andhra Pradesh,Krishna,Chickpea,Pulses,621,3856.5,5283.4,1.37
+2024,Kharif,Madhya Pradesh,Indore,Rice,Cereal,622,954.9,3466.3,3.63
+2024,Rabi,Madhya Pradesh,Indore,Wheat,Cereal,623,11397.7,41487.6,3.64
+2024,Kharif,Madhya Pradesh,Indore,Maize,Cereal,624,7012.7,21458.9,3.06
+2024,Kharif,Madhya Pradesh,Indore,Cotton,Commercial,625,8289.0,16660.9,2.01
+2024,Annual,Madhya Pradesh,Indore,Sugarcane,Commercial,626,10189.4,653650.0,64.15
+2024,Kharif,Madhya Pradesh,Indore,Soybean,Oilseed,627,5514.5,12297.3,2.23
+2024,Rabi,Madhya Pradesh,Indore,Mustard,Oilseed,628,2309.8,3441.6,1.49
+2024,Rabi,Madhya Pradesh,Indore,Chickpea,Pulses,629,7647.3,10170.9,1.33
+2024,Kharif,Madhya Pradesh,Bhopal,Rice,Cereal,630,3380.6,12406.8,3.67
+2024,Rabi,Madhya Pradesh,Bhopal,Wheat,Cereal,631,9098.0,35482.2,3.9
+2024,Kharif,Madhya Pradesh,Bhopal,Maize,Cereal,632,2250.6,6661.8,2.96
+2024,Kharif,Madhya Pradesh,Bhopal,Cotton,Commercial,633,6683.5,12565.0,1.88
+2024,Annual,Madhya Pradesh,Bhopal,Sugarcane,Commercial,634,6563.4,442110.6,67.36
+2024,Kharif,Madhya Pradesh,Bhopal,Soybean,Oilseed,635,8286.6,18727.7,2.26
+2024,Rabi,Madhya Pradesh,Bhopal,Mustard,Oilseed,636,5473.0,8921.0,1.63
+2024,Rabi,Madhya Pradesh,Bhopal,Chickpea,Pulses,637,4359.5,6103.3,1.4
+2024,Kharif,West Bengal,Burdwan,Rice,Cereal,638,1961.7,6826.7,3.48
+2024,Rabi,West Bengal,Burdwan,Wheat,Cereal,639,11060.3,40923.1,3.7
+2024,Kharif,West Bengal,Burdwan,Maize,Cereal,640,5215.3,16271.7,3.12
+2024,Annual,West Bengal,Burdwan,Sugarcane,Commercial,641,6094.1,425429.1,69.81
+2024,Kharif,West Bengal,Burdwan,Soybean,Oilseed,642,9168.9,19621.4,2.14
+2024,Rabi,West Bengal,Burdwan,Mustard,Oilseed,643,4116.0,6873.7,1.67
+2024,Kharif,West Bengal,Murshidabad,Rice,Cereal,644,3517.8,12101.2,3.44
+2024,Rabi,West Bengal,Murshidabad,Wheat,Cereal,645,3186.7,11758.9,3.69
+2024,Kharif,West Bengal,Murshidabad,Maize,Cereal,646,7458.3,22598.6,3.03
+2024,Kharif,West Bengal,Murshidabad,Cotton,Commercial,647,2058.4,4096.2,1.99
+2024,Annual,West Bengal,Murshidabad,Sugarcane,Commercial,648,3572.9,232774.4,65.15
+2024,Kharif,West Bengal,Murshidabad,Soybean,Oilseed,649,607.1,1287.1,2.12
+2024,Rabi,West Bengal,Murshidabad,Mustard,Oilseed,650,9923.4,15381.3,1.55
+2024,Rabi,West Bengal,Murshidabad,Chickpea,Pulses,651,4187.6,5778.9,1.38
+2024,Rabi,Gujarat,Rajkot,Wheat,Cereal,652,4582.4,16909.1,3.69
+2024,Kharif,Gujarat,Rajkot,Maize,Cereal,653,7469.2,23378.6,3.13
+2024,Kharif,Gujarat,Rajkot,Cotton,Commercial,654,11406.9,23156.0,2.03
+2024,Kharif,Gujarat,Rajkot,Soybean,Oilseed,655,1983.9,4305.1,2.17
+2024,Rabi,Gujarat,Rajkot,Mustard,Oilseed,656,1263.7,2059.8,1.63
+2024,Rabi,Gujarat,Rajkot,Chickpea,Pulses,657,2728.6,3328.9,1.22
